@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @LorenzoCirelli
-- 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning many languages and studying at school many subject to become a web developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LorenzoCirelli/LorenzoCirelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi everybody
+-I'm Lorenzo Cirelli an italian student of hight school.
+-AT SCHOOL i study Programming, business administration and law. i'm also SELF-TAUGHT of a more specific programming, pc harsware, video editing, ...
+-I know: Js, css, html, php, sql, vb and a little of c++, java and bat
+-in this months i'll try to learn Java and electronics.
+-in my spare time i code on my PC and I go by bike.
+I hope you're interest in my project.
