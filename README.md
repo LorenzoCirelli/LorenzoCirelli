@@ -1,7 +1,19 @@
-# Hi everybody,
--I'm Lorenzo Cirelli an italian student of hight school.<br>
--AT SCHOOL i study Programming, business administration and law. i'm also SELF-TAUGHT of a more specific programming, pc harsware, video editing, ...<br>
--I know: Js, css, html, php, sql, vb and a little of c++, java and bat<br>
--in this months i'll try to learn Java and electronics.<br>
--in my spare time i code on my PC and I go by bike.<br>
-I hope you're interest in my project.<br>
+# HI EVERYONE 👋,
+I'M A CS STUDENT IN ITALY!💻
+<br>
+I HAVE BEEN STUDYING CS SELF-TAUGHT FROM ABOUT 4 YEARS, AND ONLY RECENTLY AT SCHOOL.
+<br>
+# What i'm learning/have learned
+CODING: HTML, CSS, JS, JAVA, PHP, SQL, VB, C++,
+SOFTWARE/TOOL: GIT, GITHUB, VSCODE, VISUAL STUDIO,...
+<br>
+<br>
+# MY HOBBIES
+In my spare time, i like code new software, learn new things, but i also like exit with my friends, take a bike ride,take beautiful photos, play with my cat,...
+<br>
+![milo](https://user-images.githubusercontent.com/88227516/141370503-a62575c7-ecd0-4112-b045-0dc09af772e8.png)
+<br>
+# MY REPOSITORIES
+In my github profile you can find some interesting repositories, that are a part of what i do in my spare time, searching ideas for create new software.
+I HOPE YOU LIKE WHAT I CREATE! 🤞
+<br>
