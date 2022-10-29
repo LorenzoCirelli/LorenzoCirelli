@@ -12,8 +12,6 @@ SOFTWARE/TOOL: GIT, GITHUB, VSCODE, VISUAL STUDIO,...
 # MY HOBBIES
 In my spare time, i like code new software, learn new things, but i also like exit with my friends, take a bike ride,take beautiful photos, play with my cat,...
 <br>
-![milo](https://user-images.githubusercontent.com/88227516/141370503-a62575c7-ecd0-4112-b045-0dc09af772e8.png)
-<br>
 # MY REPOSITORIES
 In my github profile you can find some interesting repositories, that are a part of what i do in my spare time, searching ideas for create new software.
 I HOPE YOU LIKE WHAT I CREATE! 🤞
